@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
+  getDate(){
+    return new Date().toLocaleDateString("en-GB");
+  }
 }
