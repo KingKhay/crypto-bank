@@ -1,0 +1,8 @@
+.bg-image{
+  background-image: url("/assets/images/pexels-karolina-grabowska-5980573.jpg");
+  background-repeat: no-repeat !important;
+}
+
+* {
+  font-family: 'Public Sans', sans-serif;
+}
